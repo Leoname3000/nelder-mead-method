@@ -1,2 +1,4 @@
+mod point;
+
 fn main() {
 }
